@@ -15,3 +15,5 @@ and after that:
 `npm test`
 
 So I can see if my code is running against different test cases I wanted to check.
+
+Problems are taken from https://www.dailycodingproblem.com/. If you subscribe for free, they send you a problem every day. If you pay a monthly fee, apart from the daily problem, the next day they send you the problem of the previous day solved.
