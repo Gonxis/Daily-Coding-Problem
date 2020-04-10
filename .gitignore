@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+Problem_6/LinkedList.js
+Problem_6/xor_simulator.js
